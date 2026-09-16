@@ -2,7 +2,6 @@
 
 Aplicação desktop desenvolvida em Python para converter arquivos entre diferentes formatos de dados de maneira simples e rápida.
 
-O projeto possui uma interface escura, minimalista e intuitiva, criada para facilitar a seleção, conversão e exportação dos arquivos.
 
 ## Funcionalidades
 
